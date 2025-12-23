@@ -6,4 +6,8 @@
 >
 > Ce répertoire est en cours de développement actif (Pre-alpha). Les APIs internes sont sujettes à des transmutations fréquentes.
 
+<a href="LICENSE">
+  <img src="https://img.shields.io/badge/Licentia-MIT-ffd700.svg?style=flat-square&labelColor=black" alt="License"/>
+</a>
+
 ---
