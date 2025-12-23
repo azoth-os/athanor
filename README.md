@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Build-Passing-success.svg?style=flat-square&labelColor=black&logo=github-actions&logoColor=white" alt="Build Status"/>
 </a>
 
-<img src="https://img.shields.io/badge/Rust-Nightly-orange.svg?style=flat-square&labelColor=black&logo=rust&logoColor=white" alt="Rust Version"/>
-
-<img src="https://img.shields.io/badge/Arch-x86__64-lightgrey.svg?style=flat-square&labelColor=black&logo=intel&logoColor=white" alt="Architecture"/>
-
 <br clear="all" />
 
 ---
