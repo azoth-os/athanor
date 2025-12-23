@@ -3,8 +3,6 @@
 <img src="https://github.com/azoth-os/.github/blob/main/icons/athanor-wallpaper-old.jpg" alt="athanor wallpaper"/>
 </a>
 
-## Azoth
-
 </div>
 
 <br/>
