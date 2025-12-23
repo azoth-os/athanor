@@ -4,6 +4,9 @@
 <img src="https://github.com/azoth-os/.github/blob/main/icons/athanor-wallpaper-old.jpg" alt="athanor wallpaper"/>
 </picture>
 </a>
+
+[1] | [2]
+
 </div>
 
 <br/>
