@@ -11,7 +11,6 @@
 </a>
 &nbsp;
 <a href="https://github.com/azoth-os/azoth/tree/main/licenses">
-  <img src="https://img.shields.io/badge/License-APACHE-crimson.svg?style=flat-square&labelColor=black&logo=apache&logoColor=white" alt="License Apache"/>
 </a>
 
 <br clear="all" />
