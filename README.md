@@ -6,8 +6,13 @@
 >
 > Ce répertoire est en cours de développement actif (Pre-alpha). Les APIs internes sont sujettes à des transmutations fréquentes.
 
-<a href="LICENSE">
+<a href="LICENSES">
   <img src="https://img.shields.io/badge/License-MIT-crimson.svg?style=flat-square&labelColor=black" alt="License"/>
+
+
+
+
+<img src="https://img.shields.io/badge/License-APACHE-crimson.svg?style=flat-square&labelColor=black" alt="License"/>
 </a>
 
 ---
