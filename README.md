@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/azoth-os/athanor">
 <picture>
-<img src="https://github.com/azoth-os/.github/blob/main/icon/athanor-wallpaper-old.jpg" alt="athanor wallpaper"/>
+<img src="https://github.com/azoth-os/.github/blob/main/icons/athanor-wallpaper-old.jpg" alt="athanor wallpaper"/>
 </picture>
 </a>
 </div>
