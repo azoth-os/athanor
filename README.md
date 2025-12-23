@@ -2,6 +2,6 @@
 
 # Athanor<br/>Kernel
 
-> [!NOTE]
+> [!WARNING]
 >
 > Ce répertoire est en cours de développement.
