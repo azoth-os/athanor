@@ -7,7 +7,7 @@
 > Ce répertoire est en cours de développement actif (Pre-alpha). Les APIs internes sont sujettes à des modifications fréquentes.
 
 <a href="https://github.com/azoth-os/azoth/tree/main/licenses">
-  <img src="https://img.shields.io/badge/License-MIT_APACHE-crimson.svg?style=flat-square&labelColor=black&logo=open-source-initiative&logoColor=white" alt="License MIT"/>
+  <img src="https://img.shields.io/badge/License-MIT/APACHE-crimson.svg?style=flat-square&labelColor=black&logo=open-source-initiative&logoColor=white" alt="License MIT"/>
 </a>
 
 
