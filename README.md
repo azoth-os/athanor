@@ -13,3 +13,7 @@
 <br clear="all" />
 
 ---
+
+## License
+
+
