@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/athanor-wallpaper-old.jpg" width="40%" />
+<img align="right" src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/athanor-wallpaper-old.jpg" width="35%" />
 
 # *Athanor* 🔥 The Kernel
 
